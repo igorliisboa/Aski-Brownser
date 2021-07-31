@@ -9,3 +9,7 @@ Web Brownser feito em Python utilizando a biblioteca Pyqt-5
 * Atalhos de navegação
   
   ![Captura de tela 2021-07-31 002902](https://user-images.githubusercontent.com/62958588/127722981-fa0771cd-18be-41f8-b08c-b0d2373e3f4a.png)
+ 
+* Você poderá criar uma nova guia apenas dando um duplo clique abaixo da barra de URL
+  
+  ![Captura de tela 2021-07-31 003339](https://user-images.githubusercontent.com/62958588/127723130-2b2e23a3-99cf-4e55-8260-44d7faf555ac.png)
