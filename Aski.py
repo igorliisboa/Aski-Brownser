@@ -85,7 +85,7 @@ class MainWindow(QMainWindow):
         # Developer tools
         navigate_home_action.triggered.connect(self.navigate_home)
 
-        self.setWindowTitle("Spinn Browser")
+        self.setWindowTitle("Aski Browser")
         self.setWindowIcon(QIcon(os.path.join('icons', 'cil-screen-desktop.png')))
         self.setStyleSheet("""QWidget{
            background-color: rgb(48, 48, 48);
